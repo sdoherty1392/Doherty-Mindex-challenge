@@ -1,0 +1,20 @@
+[
+  {
+    "id": "82038629-0025-4ac0-90b6-32ee7224ca54",
+    "employeeId": "62c1084e-6e34-4630-93fd-9153afb65309",
+    "salary": 10000.0,
+    "effectiveDate": "1965-03-08"
+  },
+  {
+    "id": "658aadbe-167b-40f6-bc64-f20e51b635bc",
+    "employeeId": "62c1084e-6e34-4630-93fd-9153afb65309",
+    "salary": 12000.0,
+    "effectiveDate": "1966-12-05"
+  },
+  {
+    "id": "a661e2b2-30cc-40ba-a8f1-7836cff60cbf",
+    "employeeId": "03aa1462-ffa9-4978-901b-7c001562cf6f",
+    "salary": 1.0,
+    "effectiveDate": "2024-11-17"
+  }
+]
